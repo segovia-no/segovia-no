@@ -5,8 +5,8 @@
 DOOM & Hyper Light Drifter are pretty cool games
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=segovia-no&count_private=true&show_icons=true&theme=onedark" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segovia-no&layout=compact" />
+<!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=segovia-no&count_private=true&show_icons=true&theme=onedark" /> -->
+<!--  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segovia-no&layout=compact" /> -->
 </div>
 
 ---
